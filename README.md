@@ -2,7 +2,6 @@
 
 - 🧑‍💻 Software Developer since 2015, Front-End most time
 - :computer: Write code to ~~satisfy myself~~ solve problems
-- 🪙 Interested in Crypto
 
 ##### MOTTO
 
