@@ -1,6 +1,6 @@
-## Hi there, I'm Anton - aka Quernest <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+## Software Engineer
 
-- 🧑‍💻 Software Developer since 2015, Front-End most time
+- 🧑‍💻 Building software since 2015
 - :computer: Write code to ~~satisfy myself~~ solve problems
 
 ##### MOTTO
